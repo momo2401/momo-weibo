@@ -1,0 +1,20 @@
+//
+//  WB-PrefixHeader.pch
+//  CD1505Weibo
+//
+//  Created by 千锋 on 15/12/29.
+//  Copyright (c) 2015年 QianFeng. All rights reserved.
+//
+
+#ifndef CD1505Weibo_WB_PrefixHeader_pch
+#define CD1505Weibo_WB_PrefixHeader_pch
+
+/**
+ *  尺寸相关
+ */
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width
+
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+
+
+#endif
